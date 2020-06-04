@@ -1,0 +1,10 @@
+{
+  "name": "@hrgui/github-actions-test-suite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Harman <5001432+hrgui@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^26.0.1"
+  }
+}
